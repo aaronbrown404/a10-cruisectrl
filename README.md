@@ -13,6 +13,8 @@ Other tools: Git/Github, Figma
 
 #### Group members:
 
+Aaron Brown
+
 Shuchang Liu
 
 Sabha Mobini Fahalari
